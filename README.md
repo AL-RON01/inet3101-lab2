@@ -1,4 +1,4 @@
-# Inet3101-lab 2: In-Memory Database
+# INET 3101-lab 2: In-Memory Database
 
 ## Overview
 This program implements an in-memory database for parts records using C's dynamic memory allocation. The database stores information about parts including part number, name, size, size metric, and cost. 
