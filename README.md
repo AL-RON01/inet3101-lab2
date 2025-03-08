@@ -51,8 +51,7 @@ Instead of using the 'realloc()' function, this implementation manually manages 
 - Add the new record to the end
 
 2. When deleting a record:
-- Decrement the record count
+- Reduce the record count
 - Allocate new memory of size (new_count) * sizeof(Part)
 - Copy all remaining records to the new memory
 - Free the old memory block
-
