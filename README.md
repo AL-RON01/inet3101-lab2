@@ -1,5 +1,12 @@
 # INET 3101-lab 2: In-Memory Database
 
+## Student Information
+- Name: Alejandro Ron
+- Course: INET 3101 - C Programming Language and Applications 
+- Semester: Spring 2025
+- Assignment: Lab 2 - Memory Management in C
+
+
 ## Overview
 This program implements an in-memory database for parts records using C's dynamic memory allocation. The database stores information about parts including part number, name, size, size metric, and cost. 
 
