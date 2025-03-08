@@ -4,7 +4,7 @@
 - Name: Alejandro Ron
 - Course: INET 3101 - C Programming Language and Applications 
 - Semester: Spring 2025
-- Assignment: Lab 2 - Memory Management in C
+- Assignment: Lab 2 - Memory and Structures
 
 
 ## Overview
